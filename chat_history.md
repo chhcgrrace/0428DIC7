@@ -87,3 +87,11 @@ https://github.com/chhcgrrace/0428DIC7.git
 
 ### **Antigravity (11:32)**
 沒問題！已將 README.md 翻譯為繁體中文，並同步更新至 GitHub。
+
+---
+
+### **User (11:32)**
+我的APP.py我希望顯示文字也轉成中文謝謝
+
+### **Antigravity (11:33)**
+沒問題！已將 `app.py` 內的介面文字、圖表標籤及提示訊息全部翻譯為繁體中文，並同步推送到 GitHub。
