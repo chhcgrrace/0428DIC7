@@ -79,3 +79,11 @@ https://github.com/chhcgrrace/0428DIC7.git
 
 ### **Antigravity (11:32)**
 已將 Live Demo 連結加入 README.md，並同步推送到 GitHub！
+
+---
+
+### **User (11:32)**
+如果可以的話請幫我把README轉成中文謝謝
+
+### **Antigravity (11:32)**
+沒問題！已將 README.md 翻譯為繁體中文，並同步更新至 GitHub。
