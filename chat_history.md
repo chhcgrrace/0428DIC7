@@ -62,3 +62,20 @@ https://github.com/chhcgrrace/0428DIC7.git
 1. 建立 `README.md`
 2. 建立 `chat_history.md` (即本檔案)
 3. 初始化 Git 並推送到 https://github.com/chhcgrrace/0428DIC7.git
+
+---
+
+### **User (11:30)**
+你好假設我要放入streamlit要怎麼做
+
+### **Antigravity (11:30)**
+(提供 Streamlit Cloud 部署教學並自動建立且推送 `requirements.txt`)
+
+---
+
+### **User (11:31)**
+謝謝你，https://0428dic7-kbxzkxszwxrwxkklupy9cq.streamlit.app/
+這個是我的live demo連結請放到readme上
+
+### **Antigravity (11:32)**
+已將 Live Demo 連結加入 README.md，並同步推送到 GitHub！

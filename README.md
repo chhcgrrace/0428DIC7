@@ -3,7 +3,11 @@
 This repository contains a single-file Streamlit application that demonstrates a complete data science workflow using the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) methodology.
 
 ## 🚀 Overview
-The application generates synthetic linear data and walks through the six phases of CRISP-DM:
+The application generates synthetic linear data and walks through the six phases of CRISP-DM.
+
+**🔗 [Live Demo](https://0428dic7-kbxzkxszwxrwxkklupy9cq.streamlit.app/)**
+
+### CRISP-DM Phases:
 1. **Business Understanding**: Defining the prediction goal.
 2. **Data Understanding**: Exploring and visualizing synthetic data.
 3. **Data Preparation**: Feature scaling and train-test splitting.
